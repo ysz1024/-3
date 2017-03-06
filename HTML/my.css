@@ -1,0 +1,25 @@
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
+.box{
+	display:flex;
+	justify-content: center;
+	flex-direction: column;
+	background:#0099cc;
+	width:960px;
+	height: 30rem;
+	align-items: center;
+	
+}
+h1{
+	display: flex;
+	justify-content: center;
+	font-size:1rem;
+	padding: 1rem;
+	border: 1px dashed #FFF
+	color:#FFF;font-weight: normal;
+	width: 28rem
+}
